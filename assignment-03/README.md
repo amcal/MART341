@@ -6,5 +6,4 @@
 3) How to do *this* and **this**
 
 Link to [responses](.MART341\assignment-03\responses.txt) \
-Link to [screenshot](./images/assignment-03-screenshot)
-(.MART341\assignment-03\images\assignment-03-screenshot.PNG)
+Link to [screenshot](C:\Users\McAlpine\Documents\GitHub\MART341\assignment-03\images\assignment-03-screenshot.PNG)
