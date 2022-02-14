@@ -5,6 +5,6 @@
 2) How to properly name files\
 3) How to do *this* and **this**
 
-Link to [responses](./MART341/assignment-03/responses.txt)
-(.\MART341\assignment-03\responses.txt) \
+Link to [Desktop](C:\Users/McAlpine\Documents\GitHub\MART341\assignment-03\)\
+Link to [responses](.\responses.txt)\
 Link to [screenshot](.\MART341\assignment-03\images\assignment-03-screenshot.PNG)
