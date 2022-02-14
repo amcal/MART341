@@ -1,10 +1,9 @@
 # MART 341
 ### Three things I have learned in this class:
 
-1) How to make an ordered list\
-2) How to properly name files\
+1) How to make an ordered list \
+2) How to properly name files \
 3) How to do *this* and **this**
 
-Link to [Desktop](C:\Users/McAlpine\Documents\GitHub\MART341\assignment-03\)\
-Link to [responses](.\responses.txt)\
-Link to [screenshot](.\MART341\assignment-03\images\assignment-03-screenshot.PNG)
+Link to [responses](./responses.txt) \
+Link to [screenshot](./images/assignment-03-screenshot.PNG)
