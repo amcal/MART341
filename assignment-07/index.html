@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<title>
+  Feedback form
+</title>
+<!-- Define the character set used: -->
+<meta charset="UTF-8">
+<!-- Provide a description of your page: -->
+<meta name="description" content="assignment-07">
+<!-- Provide the author information for the page: -->
+<meta name="author" content="Alicia McAlpine">
+<!-- Other meta elements -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <body>
+    <img src="./images/bby_jerboa.png" alt="Baby jerboa" width="1078" height="606">
+    <h2>What did you think?</h2>
+<form action="index.html" method="post">
+  <p>Website rating</p>
+  1<input type="radio" name="rank" value="1">
+  2<input type="radio" name="rank" value="2">
+  3<input type="radio" name="rank" value="3">
+  4<input type="radio" name="rank" value="4">
+  5<input type="radio" name="rank" value="5">
+  <p>
+    Name:
+  </p>
+  <input type="text" name="flname" id="name_input"><br><br>
+  <p>
+    Feedback:
+  </p>
+  <textarea name="feedback" id="feedback_input" rows="5" cols="30"></textarea><br><br>
+  <p>
+    Email address (optional):
+  </p>
+  <input type="text" name="email" id="email_input"><br><br>
+    <input type="button" id="submit" value="Submit">
+  </form>
+</body>
+</html>
