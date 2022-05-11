@@ -1,0 +1,60 @@
+body {
+text-align: center;
+font-family: Verdana;
+background-color: lightblue;
+}
+
+.menu {
+  margin: auto;
+}
+
+header {
+  position: fixed;
+  background-color: lightgray;
+  text-align: left;
+  width: 100%;
+  height: 4em;
+  top: 0px;
+}
+
+.menu-item {
+  background-color: lightgray;
+  display: inline;
+  padding: 1em;
+  border-radius: 1em;
+}
+
+.menu-item a {
+  text-decoration: none;
+}
+
+.dropdown {
+  background-color: lightgray;
+  display: inline;
+  padding: 1em;
+  border-radius: 1em;
+  z-index: 1;
+}
+
+.dropdown a {
+  text-decoration: none;
+}
+
+.dropdown:hover #link {
+  background-color: gold;
+  display: inline-block;
+
+}
+
+#link {
+  display: none;
+}
+
+#link a {
+  text-decoration: none;
+}
+
+.menu-item:hover {
+  background-color: gold;
+
+}
