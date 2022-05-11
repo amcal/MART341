@@ -1,0 +1,37 @@
+body {
+  background-color: #bada55;
+  font-family: Georgia;
+  text-align: center;
+}
+
+div {
+  border: 10px solid #1a75ff;
+  width: 50%;
+  display: inline-block;
+}
+
+p {
+  text-align: center;
+  display: inline-block;
+}
+
+.left-side {
+  background-color: #e60000;
+  border: 5px dotted;
+  width: 50%;
+  height: 30px;
+  display: inline-block;
+}
+
+.right-side {
+  background-color: #e60000;
+  border: 5px dotted;
+  width: 100px;
+  height: 45px;
+  display: inline-block;
+}
+
+#link {
+    font: black;
+    background-color: #ffff1a;
+}
